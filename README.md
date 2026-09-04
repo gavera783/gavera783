@@ -50,17 +50,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gavera783&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Gerardo's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavera783&layout=compact&theme=tokyonight&hide_border=true" alt="Gerardo's most used languages" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavera783&theme=tokyo-night&hide_border=true&area=true" alt="Gerardo's GitHub contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gavera783&theme=tokyonight" alt="Gerardo's GitHub activity summary" />
 </div>
 
 ## 🤝 Connect With Me
